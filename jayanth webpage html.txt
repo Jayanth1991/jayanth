@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAY's Personal Webpage</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0,- 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>JAY</h1>
+    </header>
+    <div class="container">
+        <!-- You can add your bio or any other content here -->
+        <!-- If you choose to add a bio, you can do it like this:
+        <h2>About Me</h2>
+        <p>Your bio or introduction goes here.</p>
+        -->
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:jayanthkumar1991@gmail.com">jayanthkumar1991@gmail.com</a></p>
+    </div>
+</body>
+</html>
